@@ -2,4 +2,4 @@
 
 css only - font knockout style
 
-<img src="./example.PNG" alt="example" />
+<img src="./example2.PNG" alt="example" />
